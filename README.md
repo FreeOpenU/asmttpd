@@ -1,5 +1,8 @@
 asmttpd
 =======
+Education Fork of https://github.com/nemasu/asmttpd Do not use this fork.
+Caution! The many branches of this for will include intentionally injected vulnerabilities for research purposes.
+
 
 Web server for Linux written in amd64 assembly.
 
